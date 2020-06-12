@@ -1,0 +1,17 @@
+{
+  "name": "lab2a",
+  "displayName": "lab2a",
+  "expo": {
+    "name": "lab2a",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
